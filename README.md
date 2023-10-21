@@ -1,3 +1,5 @@
+This is a copy of https://git.sr.ht/~jackmordaunt/go-libwebp/
+
 # go-libwebp
 
 This is a [`ccgo`-based](https://pkg.go.dev/modernc.org/ccgo/v3) translation from [libwebp](https://github.com/webmproject/libwebp/)
